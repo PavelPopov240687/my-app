@@ -34,7 +34,7 @@ import './App.css';
 type PropsType=
     {
         userId: number,
-        id: number,
+        id: string,
         title: string,
         completed: boolean
     }
